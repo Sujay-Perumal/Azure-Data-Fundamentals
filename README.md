@@ -80,12 +80,3 @@ Based on typical business requirements (transactional systems, large-scale analy
 - **Data Visualization:** Integrate *Power BI* to create dashboards with real-time business insights.  
 - **Future Scalability:** Use Azure’s elastic scaling to support business growth and increasing data volumes.  
 
----
-
-If you'd like, I can turn this into:
-
-✅ A more visual README with icons & badges  
-✅ A portfolio-style project page  
-✅ A structured workbook-style document  
-
-Just let me know!
